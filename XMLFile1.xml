@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlDataProvider>
+  <Events id="one0">
+    <ID>0</ID>
+    <FName>harry</FName>
+    <LName>potter</LName>
+    <Date>05/07/2022</Date>
+    <Event_Type>Wedding</Event_Type>
+    <Venue></Venue>
+    <Food></Food>
+    <Guest_No_A>12</Guest_No_A>
+    <Guest_No_K>11</Guest_No_K>
+    <Venue_Cost></Venue_Cost>
+    <Cake></Cake>
+    <Days>1</Days>
+  </Events>
+  <Events id="one1">
+    <ID>1</ID>
+    <FName>kabir</FName>
+    <LName>singh</LName>
+    <Date>05/20/2022</Date>
+    <Event_Type>Birthday</Event_Type>
+    <Venue></Venue>
+    <Food></Food>
+    <Guest_No_A>1</Guest_No_A>
+    <Guest_No_K>122</Guest_No_K>
+    <Venue_Cost></Venue_Cost>
+    <Cake></Cake>
+    <Days>14</Days>
+  </Events>
+  <Events id="one3">
+    <ID>3</ID>
+    <FName>fgg</FName>
+    <LName>asdf</LName>
+    <Date>05/19/2022</Date>
+    <Event_Type>Birthday</Event_Type>
+    <Venue></Venue>
+    <Food></Food>
+    <Guest_No_A>0</Guest_No_A>
+    <Guest_No_K>44</Guest_No_K>
+    <Venue_Cost></Venue_Cost>
+    <Cake></Cake>
+    <Days>13</Days>
+  </Events>
+  <Events id="one4">
+    <ID>4</ID>
+    <FName>I</FName>
+    <LName>K</LName>
+    <Date>05/13/2022</Date>
+    <Event_Type>Wedding</Event_Type>
+    <Venue>banquet 1</Venue>
+    <Food></Food>
+    <Guest_No_A>12</Guest_No_A>
+    <Guest_No_K>112</Guest_No_K>
+    <Venue_Cost>15</Venue_Cost>
+    <Cake>Vanilla - 2tier</Cake>
+    <Days>7</Days>
+  </Events>
+  <Events id="one5">
+    <ID>5</ID>
+    <FName>q</FName>
+    <LName>q</LName>
+    <Date>05/12/2022</Date>
+    <Event_Type>Birthday</Event_Type>
+    <Venue>Pool 2</Venue>
+    <Food></Food>
+    <Guest_No_A>0</Guest_No_A>
+    <Guest_No_K>34</Guest_No_K>
+    <Venue_Cost>11</Venue_Cost>
+    <Cake>Chocolate</Cake>
+    <Days>6</Days>
+  </Events>
+</XmlDataProvider>
